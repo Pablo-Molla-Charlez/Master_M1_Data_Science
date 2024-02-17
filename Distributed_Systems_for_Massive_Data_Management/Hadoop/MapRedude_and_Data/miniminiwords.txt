@@ -1,0 +1,100 @@
+01/07/2016 | 09:17 | alger | t-shirt | 873 | online
+30/09/2016 | 09:24 | constantine | jersey | 770 | cash
+12/09/2016 | 12:26 | constantine | jersey | 2570 | credit card
+28/09/2015 | 01:13 | tlemcen | ballon | 914 | online
+22/10/2016 | 20:38 | annaba | t-shirt | 2618 | cash
+20/01/2015 | 09:14 | constantine | jersey | 631 | cash
+22/04/2017 | 01:46 | constantine | jersey | 558 | online
+08/03/2017 | 23:34 | tlemcen | t-shirt | 1395 | online
+09/07/2015 | 06:32 | tlemcen | jersey | 811 | online
+12/07/2016 | 02:27 | oran | soulier | 2878 | cash
+11/05/2018 | 17:10 | annaba | soulier | 1708 | online
+26/08/2017 | 05:36 | alger | cap | 1700 | online
+24/04/2017 | 06:39 | oran | cap | 648 | online
+10/01/2015 | 19:59 | annaba | jersey | 2625 | cash
+25/09/2017 | 10:20 | tlemcen | soulier | 2051 | cash
+02/08/2015 | 00:10 | tlemcen | soulier | 1032 | credit card
+29/05/2017 | 05:10 | alger | soulier | 2059 | online
+30/06/2015 | 17:49 | constantine | jersey | 618 | online
+10/01/2016 | 20:18 | tlemcen | t-shirt | 1132 | online
+11/11/2015 | 09:37 | alger | cap | 1033 | online
+13/04/2017 | 21:13 | oran | jersey | 901 | cash
+06/10/2016 | 04:02 | annaba | soulier | 2135 | credit card
+13/08/2016 | 05:00 | tlemcen | soulier | 2900 | cash
+02/12/2016 | 23:24 | tlemcen | soulier | 1592 | credit card
+29/11/2015 | 16:29 | alger | jersey | 2470 | credit card
+21/10/2015 | 15:45 | annaba | t-shirt | 2799 | cash
+16/08/2017 | 17:10 | alger | cap | 874 | online
+26/02/2017 | 19:16 | constantine | cap | 915 | online
+30/09/2017 | 03:05 | alger | t-shirt | 1035 | credit card
+16/11/2016 | 18:16 | oran | cap | 2532 | credit card
+10/09/2017 | 14:08 | oran | t-shirt | 1371 | credit card
+06/12/2015 | 06:06 | constantine | soulier | 1261 | cash
+03/07/2015 | 18:52 | oran | t-shirt | 1450 | online
+19/03/2017 | 12:07 | oran | ballon | 2089 | online
+13/01/2016 | 05:31 | oran | t-shirt | 1823 | online
+06/01/2017 | 07:39 | constantine | cap | 1404 | credit card
+20/09/2018 | 21:59 | tlemcen | cap | 1792 | credit card
+29/11/2016 | 21:44 | tlemcen | ballon | 2613 | credit card
+14/05/2017 | 01:29 | alger | soulier | 782 | online
+13/02/2018 | 18:49 | tlemcen | ballon | 1140 | online
+20/08/2018 | 16:23 | tlemcen | cap | 1740 | online
+31/01/2017 | 22:10 | alger | cap | 891 | online
+24/09/2018 | 10:57 | constantine | soulier | 2724 | cash
+27/11/2017 | 13:02 | alger | soulier | 946 | online
+12/03/2017 | 06:42 | alger | cap | 596 | credit card
+12/04/2015 | 00:58 | oran | ballon | 990 | cash
+19/07/2015 | 15:50 | oran | cap | 2070 | online
+21/08/2015 | 00:49 | constantine | jersey | 972 | online
+06/09/2017 | 11:05 | constantine | soulier | 1230 | online
+12/02/2017 | 05:29 | constantine | soulier | 1299 | credit card
+04/12/2018 | 02:32 | oran | cap | 2972 | credit card
+28/07/2016 | 06:16 | annaba | cap | 1921 | cash
+20/10/2017 | 09:44 | oran | t-shirt | 2429 | online
+27/03/2017 | 22:32 | tlemcen | soulier | 1809 | online
+02/02/2019 | 09:32 | tlemcen | ballon | 860 | online
+10/07/2016 | 15:11 | alger | ballon | 2838 | credit card
+31/08/2018 | 05:03 | constantine | soulier | 2921 | online
+07/06/2015 | 02:47 | constantine | t-shirt | 1190 | cash
+23/01/2019 | 19:54 | tlemcen | soulier | 2513 | credit card
+19/11/2018 | 11:05 | tlemcen | t-shirt | 2184 | credit card
+19/12/2017 | 08:10 | alger | soulier | 568 | credit card
+21/12/2015 | 18:34 | tlemcen | t-shirt | 1604 | credit card
+20/03/2015 | 23:11 | tlemcen | cap | 1397 | credit card
+11/10/2015 | 00:47 | constantine | soulier | 2146 | online
+05/01/2019 | 18:08 | annaba | cap | 1178 | online
+23/06/2018 | 07:01 | oran | jersey | 2949 | credit card
+01/03/2017 | 17:44 | tlemcen | ballon | 2155 | cash
+14/07/2017 | 21:11 | alger | ballon | 1982 | online
+16/03/2016 | 16:15 | alger | jersey | 1245 | credit card
+13/11/2015 | 11:49 | oran | soulier | 1296 | credit card
+07/04/2015 | 04:38 | oran | t-shirt | 1790 | cash
+28/09/2018 | 08:34 | constantine | ballon | 1760 | cash
+18/07/2017 | 18:29 | constantine | soulier | 2487 | cash
+21/06/2016 | 10:08 | constantine | cap | 1095 | credit card
+25/11/2016 | 23:19 | oran | t-shirt | 2356 | credit card
+23/12/2016 | 01:22 | tlemcen | ballon | 1419 | online
+29/09/2015 | 03:12 | alger | jersey | 2608 | online
+18/08/2017 | 12:40 | constantine | cap | 1330 | cash
+09/08/2017 | 12:22 | annaba | cap | 1983 | cash
+14/11/2017 | 02:42 | tlemcen | ballon | 1410 | online
+22/11/2018 | 18:46 | alger | jersey | 2301 | online
+15/04/2016 | 19:23 | alger | cap | 2379 | credit card
+29/10/2018 | 12:24 | tlemcen | t-shirt | 2261 | cash
+11/12/2017 | 02:28 | constantine | soulier | 1788 | credit card
+02/01/2017 | 09:36 | annaba | soulier | 2107 | online
+23/05/2015 | 12:27 | tlemcen | cap | 2297 | online
+16/02/2018 | 08:38 | tlemcen | t-shirt | 1841 | credit card
+23/08/2018 | 08:20 | oran | t-shirt | 1934 | online
+12/11/2015 | 18:08 | tlemcen | jersey | 1230 | credit card
+25/09/2015 | 11:17 | annaba | cap | 1563 | cash
+21/01/2018 | 19:02 | alger | t-shirt | 2580 | cash
+12/09/2017 | 14:42 | tlemcen | jersey | 2659 | online
+23/04/2018 | 14:30 | tlemcen | cap | 2606 | cash
+04/08/2016 | 23:40 | alger | jersey | 567 | online
+24/01/2018 | 17:28 | constantine | cap | 2868 | credit card
+01/06/2016 | 23:08 | oran | jersey | 637 | cash
+26/02/2016 | 07:21 | tlemcen | cap | 1050 | credit card
+01/08/2015 | 13:41 | alger | jersey | 940 | cash
+04/08/2015 | 01:06 | alger | cap | 1731 | cash
+25/03/2018 | 11:15 | oran | soulier | 2927 | online
