@@ -4,7 +4,7 @@ This repository is a structured archive of my projects and assignments completed
 
 ## Directory Structure
 
-- `Applied_Statistics`: Lab notebooks and Python solutions focused on statistical methods in data science.
+- `Applied_Statistics`: Laboratory notebooks and Python solutions focused on statistical methods in data science.
 - `Distributed_Systems_for_Massive_Data_Management`: Summaries and basic usage examples of systems like MongoDB, Hadoop, Redis, Docker.
 - `Foundational_Principles_Machine_Learning`: Python files and notebooks detailing foundational machine learning principle such as:
   1. Linear Regression & Gradient Descent
@@ -12,8 +12,10 @@ This repository is a structured archive of my projects and assignments completed
   3. Overfitting & Regularization: Lasso, Ridge and ElasticNet
   4. Feature Maps & PCA
 - `Hands_on_NLP`: Practical notebooks covering various Natural Language Processing techniques and algorithms.
-- `Hands_on_Scikit_Learn`: Lab notebooks exemplifying the usage of Scikit Learn for machine learning tasks.
+- `Hands_on_Scikit_Learn`: Laboratory notebooks exemplifying the usage of Scikit Learn for machine learning tasks.
 - `History_AI`: A curated list of book recommendations exploring the field of Artificial Intelligence.
+- `Information_Retrieval`: Laboratory notebooks and presentations done during the course of Information Retrieval, focused on NLP processing, Ranking Documents and similarity comparison.
+- `TER`: Notebooks, Python files, Documentation and Research Papers used during the Travail Encadré de Recherche (TER) in Qatent about Information Retrieval on Patents.
 
 ## Usage
 
