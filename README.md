@@ -1,6 +1,6 @@
 # Master's in Data Science Projects Repository
 
-This repository is a structured archive of my projects and assignments completed during my Master's in Data Science. Each directory corresponds to a specific course module and contains relevant notebooks, python scripts, and summaries.
+This repository is a structured archive of my projects and assignments completed during my Master's M1 in Data Science. Each directory corresponds to a specific course module and contains relevant notebooks, python scripts, and summaries.
 
 ## Directory Structure
 
