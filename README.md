@@ -17,6 +17,8 @@ This repository is a structured archive of my projects and assignments completed
 - `Information_Retrieval`: Laboratory notebooks and presentations done during the course of Information Retrieval, focused on NLP processing, Ranking Documents and similarity comparison.
 - `TER`: Notebooks, Python files, Documentation and Research Papers used during the Travail Encadré de Recherche (TER) in Qatent about Information Retrieval on Patents.
 - `Deep_Learning': Practical Notebooks + Theory Presentation Slides
+- `Large_Scale_Distributed_Data_Processing`: Continuation of course Distributed_Systems_for_Massive_Data_Management. Summaries and basic usage examples of systems like Spark, Streaming Spark, GraphX, ElasticSearch.
+- `Machine_Learning_Algorithms`: Recommended Books + Notebooks + Handwritten Notes
 
 ## Usage
 
