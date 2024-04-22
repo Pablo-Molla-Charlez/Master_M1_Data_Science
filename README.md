@@ -6,11 +6,6 @@ This repository is a structured archive of my projects and assignments completed
 
 - `Applied_Statistics`: Laboratory notebooks and Python solutions focused on statistical methods in data science.
 - `Distributed_Systems_for_Massive_Data_Management`: Summaries and basic usage examples of systems like MongoDB, Hadoop, Redis, Docker.
-- `Foundational_Principles_Machine_Learning`: Python files and notebooks detailing foundational machine learning principle such as:
-  1. Linear Regression & Gradient Descent
-  2. Classification: Binary (Perceptron (ReLu) + Logistic Regression) & Multiclassification (Perceptron (Softmax))
-  3. Overfitting & Regularization: Lasso, Ridge and ElasticNet
-  4. Feature Maps & PCA
 - `Hands_on_NLP`: Practical notebooks covering various Natural Language Processing techniques and algorithms.
 - `Hands_on_Scikit_Learn`: Laboratory notebooks exemplifying the usage of Scikit Learn for machine learning tasks.
 - `History_AI`: A curated list of book recommendations exploring the field of Artificial Intelligence.
@@ -19,6 +14,11 @@ This repository is a structured archive of my projects and assignments completed
 - `Deep_Learning`: Practical Notebooks + Theory Presentation Slides
 - `Large_Scale_Distributed_Data_Processing`: Continuation of course Distributed_Systems_for_Massive_Data_Management. Summaries and basic usage examples of systems like Spark, Streaming Spark, GraphX, ElasticSearch.
 - `Machine_Learning_Algorithms`: Recommended Books + Notebooks + Handwritten Notes
+- `Foundational_Principles_Machine_Learning`: Python files and notebooks detailing foundational machine learning principle such as:
+  1. Linear Regression & Gradient Descent
+  2. Classification: Binary (Perceptron (ReLu) + Logistic Regression) & Multiclassification (Perceptron (Softmax))
+  3. Overfitting & Regularization: Lasso, Ridge and ElasticNet
+  4. Feature Maps & PCA
 
 ## Usage
 
