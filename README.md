@@ -5,6 +5,7 @@ This repository is a structured archive of my projects and assignments completed
 ## Directory Structure
 
 - `Applied_Statistics`: Laboratory notebooks and Python solutions focused on statistical methods in data science.
+- `AI_Logique_&_Contraintes`: Contains exams, corrected TPs and theory summaries.
 - `Distributed_Systems_for_Massive_Data_Management`: Summaries and basic usage examples of systems like MongoDB, Hadoop, Redis, Docker.
 - `Hands_on_NLP`: Practical notebooks covering various Natural Language Processing techniques and algorithms.
 - `Hands_on_Scikit_Learn`: Laboratory notebooks exemplifying the usage of Scikit Learn for machine learning tasks.
