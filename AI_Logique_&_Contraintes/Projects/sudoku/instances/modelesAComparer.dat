@@ -1,0 +1,1 @@
+modelesAComparer = {"sudoku_naive.mod", "sudoku_medium.mod", "sudoku_extended.mod"};
