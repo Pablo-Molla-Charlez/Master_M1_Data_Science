@@ -1,0 +1,38 @@
+/* Une instance particulière de problème                                 */
+
+// les tâches
+taches = {
+//	 Code, Durée, Consommation
+    <"A",	25,		15>, 
+    <"B",	17,		11>, 
+    <"C",	34,		22>, 
+    <"D",	15,		31>,
+    <"E",	5,		25>, 
+    <"F",	16,		19>, 
+    <"G",	14,		24>, 
+    <"H",	25,		46>,
+    <"I", 	8,		6>, 
+    <"J", 	7,		15>, 
+    <"K",	13,		8>, 
+    <"L",	16,		5>,
+    <"M",	11,		29>, 
+    <"N",	26,		23>, 
+    <"O",	19,		4>, 
+    <"P", 	4,		2>
+}; 
+ 
+// les contraintes d'ordonnancement entre taches
+cords = { 
+	// Avant, Après
+	<"A",	"B">, 
+	<"C",	"D">, 
+	<"C",	"F">, 
+	<"I",	"H">, 
+	<"L",	"M"> 
+};
+ 
+// Puissance Maxi de l'usine
+puissanceMax = 102;
+
+	
+

@@ -1,0 +1,4 @@
+On souhaite trouver comment placer un nombre minimal
+de reines sur un échiquier de taille n*n de façon à
+ce que toutes les cases de l'échiquier soient controllées
+par au moins une reine. 
