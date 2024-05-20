@@ -20,6 +20,7 @@ This repository is a structured archive of my projects and assignments completed
   2. Classification: Binary (Perceptron (ReLu) + Logistic Regression) & Multiclassification (Perceptron (Softmax))
   3. Overfitting & Regularization: Lasso, Ridge and ElasticNet
   4. Feature Maps & PCA
+- `Narlabs_Internship`: Reports and Notes written during the 3-Months long internship in Narlabs/NCHC in Hsinchu, Taiwan.
 
 ## Usage
 
